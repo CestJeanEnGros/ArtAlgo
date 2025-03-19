@@ -1,6 +1,7 @@
-# AlgoArt
-Ressources and projects in link with the course IFT6251
+# Algorithmic Art
 
+Welcome to my repo about Algorithmic Art that I started during the course IFT6251 Winter 2025 at the University of Montréal. I'll try to keep it up to date since I plan to do more of this during my free time. 
+Most of the project are coded in Javascript using the easy-use p5.js library. Thanks a lot to the [Youtube Channel](http://exemple.com](https://www.youtube.com/@TheCodingTrain/videos)) of David Shiffman for introducing the basics of p5.js and a lot more.
 
 #Circles and lines (Assignement 1)
 
