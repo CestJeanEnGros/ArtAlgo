@@ -5,7 +5,7 @@ Most of the project are coded in Javascript using the easy-use p5.js library. Th
 
 ## Some examples of what you may find here
 
-![Example 1](https://cubeupload.com/im/Albert09/videoframe18988.png)
+![Example 1](https://u.cubeupload.com/Albert09/videoframe18988.png)
 
 
 #Circles and lines (Assignement 1)
