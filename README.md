@@ -4,7 +4,7 @@ Welcome to my repo about Algorithmic Art that I started during the course IFT625
 Most of the project are coded in Javascript using the easy-use p5.js library. Thanks a lot to the [Youtube Channel](http://exemple.com](https://www.youtube.com/@TheCodingTrain/videos)) of David Shiffman for introducing the basics of p5.js and a lot more.
 
 ## Some examples of what you may find here
-
+<img src="https://u.cubeupload.com/Albert09/videoframe18988.png" width="500" />
 ![Example 1](https://u.cubeupload.com/Albert09/videoframe18988.png)
 
 
